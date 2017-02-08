@@ -1,6 +1,8 @@
 ##Members
 Frank Wangberg, Justin Davis, Ying Xiong
 
+[![Build Status](http://jenkins.chico.liatr.io/job/JobMatch/badge/icon)](http://jenkins.chico.liatr.io/job/JobMatch/)
+
 ##Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous
 integration. This will be done in teams of 5 but we will all be working on one
